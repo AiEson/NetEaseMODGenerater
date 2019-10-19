@@ -4,8 +4,8 @@ A tool can make a new NetEaseMOD easily.
 
 此程序较简陋，以后可能会持续更新直至完善。
 
-[](https://github.com/AiEson/NetEaseMODGenerater/blob/master/img/1.png)
+![](https://github.com/AiEson/NetEaseMODGenerater/blob/master/img/1.png)
 
-[](https://github.com/AiEson/NetEaseMODGenerater/blob/master/img/2.png)
+![](https://github.com/AiEson/NetEaseMODGenerater/blob/master/img/2.png)
 
-[](https://github.com/AiEson/NetEaseMODGenerater/blob/master/img/3.png)
+![](https://github.com/AiEson/NetEaseMODGenerater/blob/master/img/3.png)
