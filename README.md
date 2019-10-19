@@ -1,5 +1,4 @@
 # NetEaseMODGenerater
-A tool can make a new NetEaseMOD easily.
 一款一键生成工具，自动创建MOD目录结构、生成UUID等。
 
 此程序较简陋，以后可能会持续更新直至完善。
